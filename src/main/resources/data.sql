@@ -1,0 +1,11 @@
+INSERT INTO `tb_hero` VALUES (1, '鲁班', '射手', '13499887733', '12341241@qq.com', '2020-02-18 00:00:00');
+INSERT INTO `tb_hero` VALUES (2, '李白', '刺客', '18977665521', 'libai@163.com', '2020-02-18 00:00:00');
+INSERT INTO `tb_hero` VALUES (3, '阿轲', '刺客', '18977665997', 'aike@qq.com', '2020-02-18 00:00:00');
+INSERT INTO `tb_hero` VALUES (4, '德玛', '肉盾', '13700997665', 'demaxiya.126.com6', '2020-02-18 00:00:00');
+INSERT INTO `tb_hero` VALUES (5, '亚索', '战士', '13586878987', 'yasuo@qq.com', '2020-02-18 00:00:00');
+INSERT INTO `tb_hero` VALUES (6, '奶妈', '辅助', '13398909089', 'nama@qq.com', '2020-02-18 00:00:00');
+INSERT INTO `tb_hero` VALUES (7, '剑圣', '刺客', '13398909088', 'jiansheng@163.com', '2020-02-18 00:00:00');
+INSERT INTO `tb_hero` VALUES (8, '盖伦', '肉盾', '15923242231', 'gailun@126.com', '2020-02-18 00:00:00');
+INSERT INTO `tb_hero` VALUES (9, '锤石', '辅助', '13398908900', '8888@163.com', '2020-02-18 00:00:00');
+INSERT INTO `tb_hero` VALUES (10, '阿木', '辅助', '13398908928', '13398908928@qq.com', '2020-02-18 00:00:00');
+INSERT INTO `tb_hero` VALUES (11, 'max', '射手', '12332', '13033010000@163.com', NULL);
