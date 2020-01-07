@@ -18,9 +18,9 @@
 + *密码*
 
 ````yml
-    url: jdbc:mysql://localhost:3306/????useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8
-    username: ????
-    password: ????
+    url: jdbc:mysql://localhost:3306/****?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8
+    username: ****
+    password: ****
 ````
 **创建数据库**
 + 执行 [resources](/src/main/resources)下的.sql文件
